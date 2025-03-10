@@ -8,71 +8,49 @@
 
 ## 2D и 3D мультиплатформенный игровой движок
 
-**[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
-game engine to create 2D and 3D games from a unified interface.** It provides a
-comprehensive set of [common tools](https://godotengine.org/features), so that
-users can focus on making games without having to reinvent the wheel. Games can
-be exported with one click to a number of platforms, including the major desktop
-platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as
-Web-based platforms and [consoles](https://docs.godotengine.org/en/latest/tutorials/platform/consoles.html).
+**[Godot Engine](https://godotengine.org) это многофункциональный кроссплатформенный игровой движок для создания 2D- и 3D-игр с единым интерфейсом**.
+Он предоставляет полный набор [общих инструментов](https://godotengine.org/features), чтобы пользователи могли сосредоточиться на создании игр, не изобретая велосипед. Игры можно экспортировать одним щелчком мыши на множество платформ, включая основные настольные платформы (Linux, macOS, Windows), мобильные платформы (Android, iOS), а также веб-платформы и [консоли (https://docs.godotengine.org/en/latest/tutorials/platform/consoles.html).
 
-## Free, open source and community-driven
+## Бесплатно, с открытым исходным кодом и под руководством сообщества
 
-Godot is completely free and open source under the very permissive [MIT license](https://godotengine.org/license).
-No strings attached, no royalties, nothing. The users' games are theirs, down
-to the last line of engine code. Godot's development is fully independent and
-community-driven, empowering users to help shape their engine to match their
-expectations. It is supported by the [Godot Foundation](https://godot.foundation/)
-not-for-profit.
+Godot полностью свободен и имеет открытый исходный код под очень свободной лицензией [MIT](https://godotengine.org/license).
+Никаких условий, никаких лицензий, ничего. Игры пользователей принадлежат им, вплоть до последней строчки кода движка. Разработка Godot полностью независима и управляется сообществом, что позволяет пользователям помочь сформировать движок в соответствии с их ожиданиями. Она поддерживается некоммерческой организацией [Godot Foundation](https://godot.foundation/).
 
-Before being open sourced in [February 2014](https://github.com/godotengine/godot/commit/0b806ee0fc9097fa7bda7ac0109191c9c5e0a1ac),
-Godot had been developed by [Juan Linietsky](https://github.com/reduz) and
-[Ariel Manzur](https://github.com/punto-) (both still maintaining the project)
-for several years as an in-house engine, used to publish several work-for-hire
-titles.
+До получения открытого исходного кода в [феврале 2014 года] (https://github.com/godotengine/godot/commit/0b806ee0fc9097fa7bda7ac0109191c9c5e0a1ac),
+Godot разрабатывался [Хуаном Линиецки](https://github.com/reduz) и [Ариэлем Манзуром](https://github.com/punto-) (оба до сих пор поддерживают проект) в течение нескольких лет в качестве внутреннего движка, использовавшегося для публикации нескольких игр, созданных по заказу.
 
-![Screenshot of a 3D scene in the Godot Engine editor](https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg)
+![Скриншот 3D-сцены в редакторе Godot Engine](https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg)
 
-## Getting the engine
+## Получение движка
 
-### Binary downloads
+### Загрузка двоичных файлов
 
-Official binaries for the Godot editor and the export templates can be found
-[on the Godot website](https://godotengine.org/download).
+Официальные двоичные файлы для редактора Godot и шаблонов экспорта можно найти [на сайте Godot](https://godotengine.org/download).
 
-### Compiling from source
+### Компиляция из исходных файлов движка
 
-[See the official docs](https://docs.godotengine.org/en/latest/contributing/development/compiling)
-for compilation instructions for every supported platform.
+[См. официальную документацию](https://docs.godotengine.org/en/latest/contributing/development/compiling) для получения инструкций по компиляции для каждой поддерживаемой платформы.
 
-## Community and contributing
+## Сообщество и участие в разработке
 
-Godot is not only an engine but an ever-growing community of users and engine
-developers. The main community channels are listed [on the homepage](https://godotengine.org/community).
+Godot - это не только движок, но и постоянно растущее сообщество пользователей и разработчиков движка. Основные каналы сообщества перечислены [на главной странице](https://godotengine.org/community).
 
-The best way to get in touch with the core engine developers is to join the
-[Godot Contributors Chat](https://chat.godotengine.org).
+Лучший способ связаться с разработчиками движка - присоединиться к [Godot Contributors Chat](https://chat.godotengine.org).
 
-To get started contributing to the project, see the [contributing guide](CONTRIBUTING.md).
-This document also includes guidelines for reporting bugs.
+Чтобы начать вносить свой вклад в проект, ознакомьтесь с руководством [по внесению вклада] (CONTRIBUTING.md). В этом документе также содержатся рекомендации по сообщению об ошибках.
 
-## Documentation and demos
+## Документация и демонстрационные версии
 
-The official documentation is hosted on [Read the Docs](https://docs.godotengine.org).
-It is maintained by the Godot community in its own [GitHub repository](https://github.com/godotengine/godot-docs).
+Официальная документация размещена на [Read the Docs](https://docs.godotengine.org).
+Она поддерживается сообществом разработчиков Godot в собственном репозитории [GitHub](https://github.com/godotengine/godot-docs).
 
-The [class reference](https://docs.godotengine.org/en/latest/classes/)
-is also accessible from the Godot editor.
+Ссылка [class reference](https://docs.godotengine.org/en/latest/classes/) также доступна из редактора Godot.
 
-We also maintain official demos in their own [GitHub repository](https://github.com/godotengine/godot-demo-projects)
-as well as a list of [awesome Godot community resources](https://github.com/godotengine/awesome-godot).
+Мы также поддерживаем официальные демо-версии в их собственном [репозитории GitHub](https://github.com/godotengine/godot-demo-projects), а также список [удивительных ресурсов сообщества Godot](https://github.com/godotengine/awesome-godot).
 
-There are also a number of other
-[learning resources](https://docs.godotengine.org/en/latest/community/tutorials.html)
-provided by the community, such as text and video tutorials, demos, etc.
-Consult the [community channels](https://godotengine.org/community)
-for more information.
+Кроме того, сообщество предоставляет множество других [обучающих ресурсов](https://docs.godotengine.org/en/latest/community/tutorials.html), таких как текстовые и видеоуроки, демоверсии и т. д.
+За дополнительной информацией обращайтесь к [каналам сообщества](https://godotengine.org/community).
 
-[![Code Triagers Badge](https://www.codetriage.com/godotengine/godot/badges/users.svg)](https://www.codetriage.com/godotengine/godot)
-[![Translate on Weblate](https://hosted.weblate.org/widgets/godot-engine/-/godot/svg-badge.svg)](https://hosted.weblate.org/engage/godot-engine/?utm_source=widget)
-[![TODOs](https://badgen.net/https/api.tickgit.com/badgen/github.com/godotengine/godot)](https://www.tickgit.com/browse?repo=github.com/godotengine/godot)
+[![Значок кодового триггера](https://www.codetriage.com/godotengine/godot/badges/users.svg)](https://www.codetriage.com/godotengine/godot)
+[![Перевод на Weblate](https://hosted.weblate.org/widgets/godot-engine/-/godot/svg-badge.svg)](https://hosted.weblate.org/engage/godot-engine/?utm_source=widget)
+[![Списки задач](https://badgen.net/https/api.tickgit.com/badgen/github.com/godotengine/godot)](https://www.tickgit.com/browse?repo=github.com/godotengine/godot)
