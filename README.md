@@ -41,10 +41,10 @@ Godot - это не только движок, но и постоянно рас
 
 ## Документация и демонстрационные версии
 
-Официальная документация размещена на [Read the Docs](https://docs.godotengine.org).
+Официальная документация размещена на [Чтение документации](https://docs.godotengine.org).
 Она поддерживается сообществом разработчиков Godot в собственном репозитории [GitHub](https://github.com/godotengine/godot-docs).
 
-Ссылка [class reference](https://docs.godotengine.org/en/latest/classes/) также доступна из редактора Godot.
+Ссылка [Классы Godot](https://docs.godotengine.org/en/latest/classes/) также доступна из редактора Godot.
 
 Мы также поддерживаем официальные демо-версии в их собственном [репозитории GitHub](https://github.com/godotengine/godot-demo-projects), а также список [удивительных ресурсов сообщества Godot](https://github.com/godotengine/awesome-godot).
 
