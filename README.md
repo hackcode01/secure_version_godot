@@ -1,4 +1,4 @@
-# Godot Engine
+# Графический движок Godot
 
 <p align="center">
   <a href="https://godotengine.org">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## 2D and 3D cross-platform game engine
+## 2D и 3D мультиплатформенный игровой движок
 
 **[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
 game engine to create 2D and 3D games from a unified interface.** It provides a
